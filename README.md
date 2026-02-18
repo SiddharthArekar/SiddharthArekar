@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Siddharth Arekar!
+<center># 👋 Hi there, I'm Siddharth Arekar!</center>
 
 <div align="center">
   
