@@ -158,6 +158,12 @@ A TypeScript-based application demonstrating modern web development practices.
   
   **"Infrastructure is code. Code is infrastructure."**
   
-  ![](https://komarev.com/ghpvc/?username=SiddharthArekar&style=flat-square&color=blue)
+  ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SiddharthArekar.SiddharthArekar&"  />
+</div>
+
+###
   
 </div>
