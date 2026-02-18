@@ -1,4 +1,4 @@
-<center># 👋 Hi there, I'm Siddharth Arekar!</center>
+# 👋 Hi there, I'm Siddharth Arekar!
 
 <div align="center">
   
@@ -38,28 +38,86 @@ A TypeScript-based application demonstrating modern web development practices.
 
 ---
 
-## 🛠️ Tech Stack
+## <h2 align="left">🛠 Tech Stack</h2>
 
-```
-Languages:      JavaScript • Python • TypeScript • Bash • SQL
-Cloud:          AWS • Azure
-DevOps:         Docker • Kubernetes • Terraform • Ansible • Jenkins
-Databases:      MySQL • PostgreSQL • MongoDB
-Tools:          Git • GitHub • Linux • VS Code
-CI/CD:          GitHub Actions • GitLab CI • Jenkins
-```
+<h3>☁️ Cloud Platforms</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"/>
+</div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<h3>🚀 DevOps & Infrastructure</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+</div>
+
+<br/>
+
+<h3>💻 Frontend Development</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"/>
+</div>
+
+<br/>
+
+<h3>🖥 Backend Development</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
+</div>
+
+<br/>
+
+<h3>🔁 Version Control</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
+</div>
+
+<br/>
+
+<h3>🎨 Design Tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"/>
+</div>
+
+<br/>
+
+<h3>🛠 Development Tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+</div>
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddharthArekar&show_icons=true&theme=dark&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthArekar&layout=compact&theme=dark)
-  
+  <img src="https://streak-stats.demolab.com?user=SiddharthArekar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
 
 ---
 
@@ -76,10 +134,11 @@ CI/CD:          GitHub Actions • GitLab CI • Jenkins
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/siddharth-arekar)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-arekar?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjuHlpkvfTTaCA5kJuBpHeg%3D%3D)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhartharekar3@gmail.com.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SiddharthArekar)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-  
+  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:siddhartharekar3@gmail.com)
+
 </div>
 
 ---
