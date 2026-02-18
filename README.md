@@ -1,14 +1,16 @@
-# 👋 Hi there, I'm Siddharth Arekar!
+<h1 align="center">👋 Hi there, I'm Siddharth Arekar!
+
+  ![Profile Banner](https://img.shields.io/badge/Cloud%20%20Engineer-0077B5?style=for-the-badge)
+
+
 
 <div align="center">
-  
-  ![Profile Banner](https://img.shields.io/badge/Cloud%20%26%20DevOps%20Engineer-FF6B35?style=for-the-badge)
-  
-  **Building scalable infrastructure and elegant solutions in the cloud** ☁️
-  
-</div>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
----
+</div>
+<br/>
+
+</h1>
 
 ## 🚀 About Me
 
@@ -134,12 +136,12 @@ A TypeScript-based application demonstrating modern web development practices.
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-arekar?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjuHlpkvfTTaCA5kJuBpHeg%3D%3D)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhartharekar3@gmail.com.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-arekar)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SiddharthArekar)
-  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:siddhartharekar3@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhartharekar3@gmail.com)
 
 </div>
+
 
 ---
 
